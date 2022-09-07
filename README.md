@@ -1,5 +1,5 @@
 <h1>Sobre mi 🧑🏻</h1>
-¡Buenos días! Soy Juan Antonio Buitrago, estudiante de una Formación Profesional en Desarrollo de Aplicaciones Multiplataformas con un interés creciente en el desarrollo android.
+¡Hola! Soy Juan Antonio Buitrago, estudiante de una Formación Profesional en Desarrollo de Aplicaciones Multiplataformas con un interés creciente en el desarrollo android.
 
 <h3>Contacto:</h3>
 
