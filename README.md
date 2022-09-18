@@ -1,4 +1,4 @@
-<h1>Sobre mi 🧑🏻</h1>
+<h1>Sobre mí 🧑🏻</h1>
 ¡Hola! Soy Juan Antonio Buitrago Balsalobre, estudiante de una Formación Profesional en Desarrollo de Aplicaciones Multiplataformas con un interés creciente en el desarrollo android.
 
 <h3>Contacto:</h3>
